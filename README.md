@@ -1,6 +1,8 @@
 # DialogueMap
 Since conventional neural net based systems fail to perform well on lesser amount of data. There is a need of a system which is able to respond with decent accuracy without a need of huge amounts of data
 
+## Training and Testing
+
 ### Training
 Current build gives an example where the bot is trained on - 
 ```
@@ -56,8 +58,9 @@ BOT:
   pathtraversed: 'hey' }
 ```
 
+## Input Output Format
 
-### Response Format
+### Output Format
 ```
 {
   'confindence':CONFIDENCE_SCORE, // Confidence score of the response
