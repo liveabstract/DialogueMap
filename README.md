@@ -38,7 +38,10 @@ If the bot is tested for the exact or somewhat different statement - it gives a 
 
 For instance-
 
-USER: *hey how are you*
+USER: 
+```
+hey how are you
+```
 
 BOT: 
  
